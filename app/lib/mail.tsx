@@ -48,7 +48,7 @@ export async function sendMail({
   try {
     const sendResult = await transport.sendMail({
       from: SMTP_EMAIL,
-      to: ['dualstrength.ca@gmail.com'],
+      to: ['anexample123@gmail.com'],
       subject: `This letter is from ${email}`,
       html: `<h1>Message from ${name}</h1>
       <h2>Email: ${email}</h2>
