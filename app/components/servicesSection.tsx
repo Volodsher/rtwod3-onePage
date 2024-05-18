@@ -9,33 +9,33 @@ const services: {
 }[] = [
   {
     id: 1,
-    title: 'Window Replacement',
+    title: '1 Lorem ipsum dolor sit amet',
     icon: 'window.png',
-    text: 'Upgrade your home with modern, energy-efficient windows.',
+    text: 'Lorem ipsum dolor sit amet',
   },
   {
     id: 2,
-    title: 'Custom Window Designs',
+    title: '2 Lorem ipsum dolor sit amet',
     icon: 'roundWindow.png',
-    text: 'Tailor your windows to fit the unique style of your home.',
+    text: 'Lorem ipsum dolor sit amet',
   },
   {
     id: 3,
-    title: 'Door Installation',
+    title: '3 Lorem ipsum dolor sit amet',
     icon: 'door.png',
-    text: 'Enhance security and style with our expert door installation services.',
+    text: 'Lorem ipsum dolor sit amet',
   },
   {
     id: 4,
-    title: 'Energy-Efficient Solutions',
+    title: '4 Lorem ipsum dolor sit amet',
     icon: 'dollar.png',
-    text: 'Save on energy costs with our eco-friendly window options.',
+    text: 'Lorem ipsum dolor sit amet',
   },
   {
     id: 5,
-    title: 'Repairs and Maintenance',
+    title: '5 Lorem ipsum dolor sit amet',
     icon: 'wrench.png',
-    text: ' Keep your windows and doors in top condition with our repair and maintenance services.',
+    text: ' Lorem ipsum dolor sit amet',
   },
 ];
 
