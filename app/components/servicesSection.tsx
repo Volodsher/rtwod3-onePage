@@ -53,10 +53,7 @@ const ServicesSection = () => {
           </span>
         </h2>
 
-        <p className="text-gray-700 mb-6">
-          Discover the range of services we offer at Dual Strength Windows and
-          Doors Inc.:
-        </p>
+        <p className="text-gray-700 mb-6">Lorem ipsum dolor sit amet:</p>
         <div className="flex divide-y py-10 justify-center gap-4 flex-wrap">
           {services.map((service) => {
             return (
@@ -87,9 +84,10 @@ const ServicesSection = () => {
         </div>
 
         <p className="text-gray-700 mb-8">
-          Our team is committed to delivering excellence in every project.
-          Elevate your home&apos;s aesthetics and functionality with Dual
-          Strength Windows and Doors Inc.
+          Lorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor
+          sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem
+          ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit
+          ametLorem ipsum dolor sit amet
         </p>
       </div>
     </section>
